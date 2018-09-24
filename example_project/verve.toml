@@ -1,0 +1,8 @@
+project_name = "hector"
+
+generate_command="python generate {version_label} {irectory}"
+
+
+# More details about toml available here:
+# https://github.com/toml-lang/toml
+[default parameters]
